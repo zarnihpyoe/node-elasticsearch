@@ -1,0 +1,12 @@
+{
+  "name": "node-elasticsearch",
+  "version": "1.0.0",
+  "description": "Learning repo for elasticsearch with nodejs",
+  "main": "index.js",
+  "repository": "https://github.com/zarniphyo/node-elasticsearch.git",
+  "author": "Zarni Phyo <zarniphyo95@gmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "elasticsearch": "^13.0.0"
+  }
+}
